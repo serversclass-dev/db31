@@ -1,1 +1,20 @@
-{}
+{
+  "lora8ek": {
+    "username": "lora8ek",
+    "password": "S65Y6G4K$6Nc4Sy",
+    "student_type": "علمي",
+    "telegram_user_id": "6911354741",
+    "telegram_username": null,
+    "telegram_first_name": "🪐🍂🍁",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_41.jpg",
+    "session_id": "2e88826b-96f2-4d07-96b0-016873f398ec",
+    "created_at": "2026-05-10T21:14:47.743114",
+    "verified": true,
+    "last_login": "2026-05-10T21:15:39.651679",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 31
+  }
+}
